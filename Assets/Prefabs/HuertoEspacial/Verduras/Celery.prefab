@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -3700345311781599296}
   - component: {fileID: -586374968275970488}
   m_Layer: 0
-  m_Name: Apio
+  m_Name: Celery
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

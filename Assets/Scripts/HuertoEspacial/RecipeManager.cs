@@ -13,20 +13,17 @@ public class RecipeManager : MonoBehaviour
 
     void InitializeRecipes()
     {
-        plantRecipes.Add(Products.colMorada, new List<string> { "algo con colMorada" });
-        plantRecipes.Add(Products.colBlanca, new List<string> { "algo con colBlanca" });
-        plantRecipes.Add(Products.lechugaRepollo, new List<string> { "tacos" });
-        plantRecipes.Add(Products.lechugaCrespa, new List<string> { "Bocaditos  para 10 personas.." });
-        plantRecipes.Add(Products.remolacha, new List<string> { "Salsa de remolacha" });
-        plantRecipes.Add(Products.culantro, new List<string> { "algo con culantro" });
-        plantRecipes.Add(Products.perejil, new List<string> { "algo con perejil" });
-        plantRecipes.Add(Products.apio, new List<string> { "Crema de apio con queso mozzarella, Palitos de apio" });
-        plantRecipes.Add(Products.calabaza, new List<string> { "algo con calabaz" });
-        plantRecipes.Add(Products.pimiento, new List<string> { "algo con pimiento" });
-        plantRecipes.Add(Products.zanahoria, new List<string> { "algo con zanahoria" });
-        plantRecipes.Add(Products.acelga, new List<string> { "Ensalada de acelga, Tortilla de acelgas con huevos" });
-
-
+        plantRecipes.Add(Products.Cabbage, new List<string> { "algo con colMorada" });
+        plantRecipes.Add(Products.Lettuce, new List<string> { "algo con colBlanca" });
+        plantRecipes.Add(Products.Beet, new List<string> { "tacos" });
+        plantRecipes.Add(Products.Cilantro, new List<string> { "Bocaditos  para 10 personas.." });
+        plantRecipes.Add(Products.Parsley, new List<string> { "Salsa de remolacha" });
+        plantRecipes.Add(Products.Celery, new List<string> { "algo con culantro" });
+        plantRecipes.Add(Products.Pumpkin, new List<string> { "algo con perejil" });
+        plantRecipes.Add(Products.Pepper, new List<string> { "Crema de apio con queso mozzarella, Palitos de apio" });
+        plantRecipes.Add(Products.Carrot, new List<string> { "algo con calabaz" });
+        plantRecipes.Add(Products.Chard, new List<string> { "algo con pimiento" });
+        plantRecipes.Add(Products.SweetPotato, new List<string> { "algo con zanahoria" });
     }
 
     public List<string> GetRecipes(Products plant)

@@ -70,7 +70,7 @@ public class TypeSeed : MonoBehaviour
             }
             else
             {
-                textDisplay.text = typeSeed.ToString() + "\n" + "Listo";
+                textDisplay.text = typeSeed.ToString() + "\n" + "Ready";
                 isReady = true;
 
                 EnablePrefab();
@@ -79,7 +79,7 @@ public class TypeSeed : MonoBehaviour
         }
         else
         {
-            textDisplay.text = typeSeed.ToString() + " Sin regar";
+            textDisplay.text = typeSeed.ToString() + " Need Water";
         }
         
     }

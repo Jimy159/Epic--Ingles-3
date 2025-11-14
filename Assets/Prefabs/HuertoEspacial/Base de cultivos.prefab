@@ -113,12 +113,32 @@ PrefabInstance:
     - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
         type: 3}
       propertyPath: m_fontSize
-      value: 0.25
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: m_fontColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: m_fontColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: m_fontColor.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
         type: 3}
       propertyPath: m_fontSizeBase
-      value: 0.25
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 973409271527132462, guid: 7c028c0c74e69f34db6582ac69740b08,
         type: 3}
@@ -163,6 +183,16 @@ PrefabInstance:
     - target: {fileID: 3819306336273371883, guid: 7c028c0c74e69f34db6582ac69740b08,
         type: 3}
       propertyPath: interactable
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3819306336273371883, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: prefabsVerdure.Array.data[11]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3819306336273371883, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: prefabsVerdure.Array.data[12]
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 4684120002096957547, guid: 7c028c0c74e69f34db6582ac69740b08,
@@ -360,12 +390,32 @@ PrefabInstance:
     - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
         type: 3}
       propertyPath: m_fontSize
-      value: 0.25
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: m_fontColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: m_fontColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: m_fontColor.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
         type: 3}
       propertyPath: m_fontSizeBase
-      value: 0.25
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 973409271527132462, guid: 7c028c0c74e69f34db6582ac69740b08,
         type: 3}
@@ -412,6 +462,16 @@ PrefabInstance:
       propertyPath: interactable
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 3819306336273371883, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: prefabsVerdure.Array.data[11]
+      value: 
+      objectReference: {fileID: 6714166500216640306}
+    - target: {fileID: 3819306336273371883, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: prefabsVerdure.Array.data[12]
+      value: 
+      objectReference: {fileID: 6714166500216640306}
     - target: {fileID: 4684120002096957547, guid: 7c028c0c74e69f34db6582ac69740b08,
         type: 3}
       propertyPath: interactText
@@ -597,6 +657,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3089463015607928987}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &6714166500216640306 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8643103562508344233, guid: 7c028c0c74e69f34db6582ac69740b08,
+    type: 3}
+  m_PrefabInstance: {fileID: 3089463015607928987}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &4649264950307193763
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -607,12 +673,32 @@ PrefabInstance:
     - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
         type: 3}
       propertyPath: m_fontSize
-      value: 0.25
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: m_fontColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: m_fontColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: m_fontColor.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
         type: 3}
       propertyPath: m_fontSizeBase
-      value: 0.25
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 973409271527132462, guid: 7c028c0c74e69f34db6582ac69740b08,
         type: 3}
@@ -657,6 +743,16 @@ PrefabInstance:
     - target: {fileID: 3819306336273371883, guid: 7c028c0c74e69f34db6582ac69740b08,
         type: 3}
       propertyPath: interactable
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3819306336273371883, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: prefabsVerdure.Array.data[11]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3819306336273371883, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: prefabsVerdure.Array.data[12]
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 4684120002096957547, guid: 7c028c0c74e69f34db6582ac69740b08,
@@ -860,12 +956,32 @@ PrefabInstance:
     - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
         type: 3}
       propertyPath: m_fontSize
-      value: 0.25
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: m_fontColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: m_fontColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: m_fontColor.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
         type: 3}
       propertyPath: m_fontSizeBase
-      value: 0.25
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 427217106222015658, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 973409271527132462, guid: 7c028c0c74e69f34db6582ac69740b08,
         type: 3}
@@ -910,6 +1026,16 @@ PrefabInstance:
     - target: {fileID: 3819306336273371883, guid: 7c028c0c74e69f34db6582ac69740b08,
         type: 3}
       propertyPath: interactable
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3819306336273371883, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: prefabsVerdure.Array.data[11]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3819306336273371883, guid: 7c028c0c74e69f34db6582ac69740b08,
+        type: 3}
+      propertyPath: prefabsVerdure.Array.data[12]
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 4684120002096957547, guid: 7c028c0c74e69f34db6582ac69740b08,

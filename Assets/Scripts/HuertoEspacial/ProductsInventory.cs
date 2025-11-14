@@ -16,22 +16,17 @@ public class ProductsInventory : MonoBehaviour
 
         inventarioProductos = new Dictionary<Products, int>()
         {
-            { Products.colMorada, 0 },
-            { Products.colBlanca, 0 },
-            { Products.lechugaRepollo, 0 },
-            { Products.lechugaCrespa, 0 },
-            { Products.remolacha, 0 },
-            { Products.culantro, 0 },
-            { Products.perejil, 0 },
-            { Products.apio, 0 },
-            { Products.calabaza, 0 },
-            { Products.pimiento, 0 },
-            { Products.zanahoria, 0 },
-            { Products.acelga, 0 },
-            { Products.camote, 0 },
-            { Products.amaranto, 0 },
-            { Products.mashua, 0 },
-            { Products.ocas, 0 }
+            { Products.Cabbage, 0 },
+            { Products.Lettuce, 0 },
+            { Products.Beet, 0 },
+            { Products.Cilantro, 0 },
+            { Products.Parsley, 0 },
+            { Products.Celery, 0 },
+            { Products.Pumpkin, 0 },
+            { Products.Pepper, 0 },
+            { Products.Carrot, 0 },
+            { Products.Chard, 0 },
+            { Products.SweetPotato, 0 }
         };
     }
 
@@ -40,20 +35,15 @@ public class ProductsInventory : MonoBehaviour
 
 public enum Products
 {
-    colMorada,
-    colBlanca,
-    lechugaRepollo,
-    lechugaCrespa,
-    remolacha,
-    culantro,
-    perejil,
-    apio,
-    calabaza,
-    pimiento,
-    zanahoria,
-    acelga,
-    camote,
-    amaranto,
-    mashua,
-    ocas
+    Cabbage,
+    Lettuce,
+    Beet,
+    Cilantro,
+    Parsley,
+    Celery,
+    Pumpkin,
+    Pepper,
+    Carrot,
+    Chard,
+    SweetPotato
 }

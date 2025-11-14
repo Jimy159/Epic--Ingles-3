@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 7832998227682214578}
   - component: {fileID: 8525784953366898949}
   m_Layer: 0
-  m_Name: Camote
+  m_Name: SweetPotato
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

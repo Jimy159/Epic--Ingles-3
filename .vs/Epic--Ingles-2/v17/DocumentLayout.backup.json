@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "E:\\Proyectos\\Epic--Ingles-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\activatefinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\activatefinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|e:\\proyectos\\epic--ingles-2\\assets\\scripts\\huertoespacial\\seeds\\typeseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\huertoespacial\\seeds\\typeseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\choose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\choose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\huertoespacial\\seeds\\verdure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\huertoespacial\\seeds\\verdure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|e:\\proyectos\\epic--ingles-2\\assets\\scripts\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\huertoespacial\\selectseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\huertoespacial\\selectseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\pick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\pick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|e:\\proyectos\\epic--ingles-2\\assets\\scripts\\huertoespacial\\recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\huertoespacial\\recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\objecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\objecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\huertoespacial\\seedsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\huertoespacial\\seedsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\huertoespacial\\productsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\huertoespacial\\productsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\huertoespacial\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\huertoespacial\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,71 +37,100 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 295,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ActivateFinal.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\ActivateFinal.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ActivateFinal.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\ActivateFinal.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ActivateFinal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Title": "TypeSeed.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\Seeds\\TypeSeed.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\Seeds\\TypeSeed.cs",
+              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\Seeds\\TypeSeed.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HuertoEspacial\\Seeds\\TypeSeed.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwFAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T23:59:54.625Z",
+              "WhenOpened": "2025-11-13T21:33:26.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Choose.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Choose.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Choose.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Choose.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Choose.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ProductsInventory.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\ProductsInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\ProductsInventory.cs",
+              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\ProductsInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HuertoEspacial\\ProductsInventory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwC8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T22:54:39.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Pick.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Pick.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Pick.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Pick.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Pick.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T21:39:11.435Z"
+              "WhenOpened": "2025-11-13T20:50:13.493Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Box.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Box.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Box.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Box.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Box.cs",
-              "ViewState": "AgIAAKwAAAAAAAAAAIBZwLEAAAAaAAAAAAAAAA==",
+              "Title": "SelectSeed.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\SelectSeed.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\SelectSeed.cs",
+              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\SelectSeed.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HuertoEspacial\\SelectSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T21:07:25.652Z",
+              "WhenOpened": "2025-11-13T20:17:12.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Verdure.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\Seeds\\Verdure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\Seeds\\Verdure.cs",
+              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\Seeds\\Verdure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HuertoEspacial\\Seeds\\Verdure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:50:01.418Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 105,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecipeManager.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\RecipeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\RecipeManager.cs",
+              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\RecipeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HuertoEspacial\\RecipeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:42:22.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ObjectType.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\ObjectType.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectType.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\ObjectType.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ObjectType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "SeedsInventory.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\SeedsInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\SeedsInventory.cs",
+              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\SeedsInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HuertoEspacial\\SeedsInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T21:32:05.022Z"
+              "WhenOpened": "2025-11-13T20:17:15.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Zone.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\Zone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\Zone.cs",
+              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\Zone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HuertoEspacial\\Zone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:41:02.144Z"
             }
           ]
         }

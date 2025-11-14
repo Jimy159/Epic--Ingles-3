@@ -15,22 +15,17 @@ public class SeedsInventory : MonoBehaviour
     {
         inventorySeeds = new Dictionary<Seed, int>()
         {
-            { Seed.ColMorada, 1 },
-            { Seed.ColBlanca, 1 },
-            { Seed.LechugaRepollo, 1 },
-            { Seed.LechugaCrespa, 1 },
-            { Seed.Remolacha, 1 },
-            { Seed.Culantro, 1 },
-            { Seed.Perejil, 1 },
-            { Seed.Apio, 1 },
-            { Seed.Calabaza, 1 },
-            { Seed.Pimiento, 1 },
-            { Seed.Zanahoria, 1 },
-            { Seed.Acelga, 1 },
-            { Seed.Camote, 1 },
-            { Seed.Amaranto, 1 },
-            { Seed.Mashua, 1 },
-            { Seed.Ocas, 1 }
+            { Seed.Cabbage, 1 },
+            { Seed.Lettuce, 1 },
+            { Seed.Beet, 1 },
+            { Seed.Cilantro, 1 },
+            { Seed.Parsley, 1 },
+            { Seed.Celery, 1 },
+            { Seed.Pumpkin, 1 },
+            { Seed.Pepper, 1 },
+            { Seed.Carrot, 1 },
+            { Seed.Chard, 1 },
+            { Seed.SweetPotato, 1 }
         };
     }
     public bool HaveSeeds(Seed seedSelected)
@@ -54,22 +49,17 @@ public class SeedsInventory : MonoBehaviour
 }
 public enum Seed
 {
-    ColMorada,
-    ColBlanca,
-    LechugaRepollo,
-    LechugaCrespa,
-    Remolacha,
-    Culantro,
-    Perejil,
-    Apio,
-    Calabaza,
-    Pimiento,
-    Zanahoria,
-    Acelga,
-    Camote,
-    Amaranto,
-    Mashua,
-    Ocas
+    Cabbage,
+    Lettuce,
+    Beet,
+    Cilantro,
+    Parsley,
+    Celery,
+    Pumpkin,
+    Pepper,
+    Carrot,
+    Chard,
+    SweetPotato,
 }
 
 
