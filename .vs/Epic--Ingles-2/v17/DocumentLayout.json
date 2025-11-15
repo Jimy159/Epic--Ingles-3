@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "E:\\Proyectos\\Epic--Ingles-2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|e:\\proyectos\\epic--ingles-2\\assets\\scripts\\office jobs\\officeitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\office jobs\\officeitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|e:\\proyectos\\epic--ingles-2\\assets\\scripts\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|e:\\proyectos\\epic--ingles-2\\assets\\scripts\\huertoespacial\\seeds\\typeseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\huertoespacial\\seeds\\typeseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\huertoespacial\\seeds\\typeseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -47,19 +51,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OfficeItemType.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Office Jobs\\OfficeItemType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Office Jobs\\OfficeItemType.cs",
+              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Office Jobs\\OfficeItemType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Office Jobs\\OfficeItemType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T01:41:02.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Box.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Box.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Box.cs",
               "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Box.cs",
               "RelativeToolTip": "Assets\\Scripts\\Box.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAIwJAAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAIsAAAAAAAAAAMBcwJAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T23:20:38.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TypeSeed.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\Seeds\\TypeSeed.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\Seeds\\TypeSeed.cs",
@@ -67,12 +84,11 @@
               "RelativeToolTip": "Assets\\Scripts\\HuertoEspacial\\Seeds\\TypeSeed.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAwwFAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T21:33:26.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T21:33:26.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ProductsInventory.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\ProductsInventory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\ProductsInventory.cs",
@@ -84,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SelectSeed.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\SelectSeed.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\SelectSeed.cs",
@@ -96,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Verdure.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\Seeds\\Verdure.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\Seeds\\Verdure.cs",
@@ -114,7 +130,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "RecipeManager.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\RecipeManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\RecipeManager.cs",
@@ -127,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SeedsInventory.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\SeedsInventory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\SeedsInventory.cs",
@@ -139,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Zone.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\Zone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\Zone.cs",
