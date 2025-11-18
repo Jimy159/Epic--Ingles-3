@@ -40,4 +40,9 @@ public class SignSelector : MonoBehaviour
 
         quest.tasks[0].CompleteTask();
     }
+
+    public void CompleteQuestFinal()
+    {
+        quest.tasks[1].CompleteTask();
+    }
 }
