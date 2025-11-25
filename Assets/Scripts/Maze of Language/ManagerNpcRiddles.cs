@@ -44,6 +44,7 @@ public class ManagerNpcRiddles : MonoBehaviour
                 {
                     DisableEmpty();
                     npc.complete.Invoke();
+                    Score.Instance.AddPoints();
                     npc.completed = true;
                     npc.interactable.enabled = false;
                     CheckComplete();
@@ -60,6 +61,7 @@ public class ManagerNpcRiddles : MonoBehaviour
                 {
                     DisableEmpty();
                     npc.incorrect.Invoke();
+                    Score.Instance.RestarPoints();
                     if (response.audioClip != null)
                     {
                         npc.AudiosResponse(response.audioClip);

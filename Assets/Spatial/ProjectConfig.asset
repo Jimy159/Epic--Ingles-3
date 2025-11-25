@@ -15,14 +15,6 @@ MonoBehaviour:
   _configVersion: 1
   _defaultWorldID: j649n7oa747vr2qvh2ay8
   _packages:
-  - {fileID: 11400000, guid: f9f137dea7f63477ba0010b47000a828, type: 2}
-  - {fileID: 11400000, guid: 72ffea1652c674c0a9800acaee82a68a, type: 2}
-  - {fileID: 11400000, guid: 520d2d878c86648c5bde931f73b9ddc9, type: 2}
-  - {fileID: 11400000, guid: 24ccd46bd00234bad93fbc923fd4ea07, type: 2}
-  - {fileID: 11400000, guid: fae3bc4319da54da8afdb0a26cd204fd, type: 2}
-  - {fileID: 11400000, guid: 9329ff968d6af49cc8ba2a95ce7513ba, type: 2}
-  - {fileID: 11400000, guid: fd10a052dfd314426b1acf919c98a9e9, type: 2}
-  - {fileID: 11400000, guid: 49d0a134c7399441c8ef5c13203a1186, type: 2}
   - {fileID: 11400000, guid: acbf0d0dd60a1f04ca6d030294614511, type: 2}
   - {fileID: 11400000, guid: 58036cf6523440d4fadc77f51888f09b, type: 2}
   - {fileID: 11400000, guid: a951591b04119f04cab39825c810ad83, type: 2}
@@ -61,3 +53,4 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 1dd6548bafa9162458fadae57bf59316, type: 2}
   - {fileID: 11400000, guid: 7c5ff2b15eac8064a8b77685691b2b52, type: 2}
   - {fileID: 11400000, guid: c10fcd7a8b5dd10499884f2fc0c7854a, type: 2}
+  - {fileID: 11400000, guid: 818ece22c81fe664c89ecb37b486376a, type: 2}
