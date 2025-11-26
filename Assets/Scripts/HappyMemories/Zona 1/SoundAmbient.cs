@@ -5,9 +5,11 @@ using UnityEngine;
 public class SoundAmbient : MonoBehaviour
 {
     public AudioSource audio;
+    private bool one = true;
     private void OnTriggerEnter(Collider other)
     {
-        audio.Play();
+            audio.Play();
+            one = false;
     }
 
     private void OnTriggerExit(Collider other)

@@ -3,18 +3,19 @@ using System.Collections.Generic;
 using SpatialSys.UnitySDK;
 using UnityEngine;
 
-public class PlaceFogata : MonoBehaviour
+public class PlacePalabra : MonoBehaviour
 {
-    public TypeFogata.Type objectType;
-    public PickFogata pick;
+    public TypePalabra.Type objectType;
+    public PickPlaya pick;
     public float moveSpeed = 3f;
     public Transform pos;
     [HideInInspector] public bool completed;
-    public GameObject teleport;
-    public SpatialQuest quest;
+    public FinalPlaya FinalPlaya;
+    public SpatialInteractable interactable;
 
     private void Awake()
     {
+        interactable = GetComponent<SpatialInteractable>();
     }
     public void TryPlaceObject()
     {
@@ -24,16 +25,17 @@ public class PlaceFogata : MonoBehaviour
         if (pick.currentObject != null && pick.currentType == objectType)
         {
             StartCoroutine(MoveToPosition(pick.currentObject, pos));
-            pick.Release();
+                pick.Release();
+                completed = true;
+            if (FinalPlaya != null)
+                FinalPlaya.AreAllComplete();
             pos.gameObject.GetComponent<SpatialInteractable>().enabled = false;
-            completed = true;
-            teleport.SetActive(true);
-            quest.tasks[3].CompleteTask();
         }
         else
         {
-            pick.currentObject.GetComponent<TypeFogata>().Back();
+            pick.currentObject.GetComponent<TypePalabra>().Back();
             pick.Release();
+            pick.interactable.enabled = true;
         }
     }
 

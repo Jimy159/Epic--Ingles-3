@@ -44,7 +44,6 @@ public class ManagerNpcRiddles : MonoBehaviour
                 {
                     DisableEmpty();
                     npc.complete.Invoke();
-                    Score.Instance.AddPoints();
                     npc.completed = true;
                     npc.interactable.enabled = false;
                     CheckComplete();
@@ -52,7 +51,8 @@ public class ManagerNpcRiddles : MonoBehaviour
                     {
                         npc.AudiosResponse(response.audioClip);
                     }
-                    
+                    Score.Instance.AddPoints();
+
                 });
             }
             else
@@ -80,6 +80,7 @@ public class ManagerNpcRiddles : MonoBehaviour
 
     public void CheckComplete()
     {
+        Debug.LogError("ww");
         foreach (var item in npcs)
         {
             if (!item.completed)
@@ -87,7 +88,6 @@ public class ManagerNpcRiddles : MonoBehaviour
                 return;
             }
         }
-
         quest.tasks[indexTaskCompleted].CompleteTask();
     }
 }

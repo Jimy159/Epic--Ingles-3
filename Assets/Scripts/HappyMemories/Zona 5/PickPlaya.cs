@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using SpatialSys.UnitySDK;
 using UnityEngine;
 
-public class PickFogata : MonoBehaviour
+public class PickPlaya : MonoBehaviour
 {
-    public TypeFogata.Type currentType;
+
+    public TypePalabra.Type currentType;
     public GameObject currentObject;
     public SpatialInteractable interactable;
     private bool isMoving = false;
@@ -45,12 +46,13 @@ public class PickFogata : MonoBehaviour
 
     public void PickUp(GameObject obj)
     {
-        if(currentObject != null)
+        if (currentObject != null)
             return;
         currentObject = obj;
+
         isMoving = true;
 
-        TypeFogata typeObj = obj.GetComponent<TypeFogata>();
+        TypePalabra typeObj = obj.GetComponentInChildren<TypePalabra>();
         interactable = typeObj.interactable;
         interactable.enabled = false;
 
