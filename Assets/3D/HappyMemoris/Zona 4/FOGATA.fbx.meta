@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: abb6e851c38d0134bb0c2f3c942ec9dd
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Campfire1Charred_Ground
+    second: {fileID: 2100000, guid: 3be7c2b7a34ec954c96b89a19521f8ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Campfire1Rock
+    second: {fileID: 2100000, guid: 1f637c99580c0b9468d751499bfc03c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Campfire1Wood
+    second: {fileID: 2100000, guid: 5443762f1b516b145bc3f502f28222d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Campfire1Wood_Interior
+    second: {fileID: 2100000, guid: 6eb4d91c65901504785a0144b293d7f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crate_Large2Crate_Bottom
+    second: {fileID: 2100000, guid: 823273f3594892b4fbe603de071e2ca8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crate_Large2Crate_Top
+    second: {fileID: 2100000, guid: 9d95994a660746e47950f8f684dec064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crate_Small3Plastic
+    second: {fileID: 2100000, guid: 4a3964a45a8cecc4a985ba8d908b2ca5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fire1
+    second: {fileID: 2100000, guid: f2c6dfd0e63f96c4bb5196d18b14ff04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Forkblinn1
+    second: {fileID: 2100000, guid: 5bb43beb2271d914aaab75e85ecd7ce5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green_Elka
+    second: {fileID: 2100000, guid: 81976f279a3033e44b7820e6383b69e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green_sosna.001
+    second: {fileID: 2100000, guid: 93c1c657d0adea7418fb0aa57d687ddb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HammockBlanket
+    second: {fileID: 2100000, guid: b12633c18468a484f940018690e6eccb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HammockString
+    second: {fileID: 2100000, guid: 10d2e0aaf829e3640962c5250acc6f1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HammockWood
+    second: {fileID: 2100000, guid: b8f71f54f3aa4cf40bacf6126fd778e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KnifeBlade
+    second: {fileID: 2100000, guid: 38f7a0781ee811d4cbc4b8acaca77dc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KnifeHandle
+    second: {fileID: 2100000, guid: aa073b66f36b26043be835d8f547498f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kust_2
+    second: {fileID: 2100000, guid: d16b8db84ac33e1438ef7c3effe49c09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paper_PlatePaper
+    second: {fileID: 2100000, guid: 6f0309c9ec833f448b62c076a11a162d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paporotnik
+    second: {fileID: 2100000, guid: edfa693f8eeb56a42b9740638478732a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sitting_LogWood
+    second: {fileID: 2100000, guid: 62a49e128a83158418879b119182eac5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sitting_LogWood_Interior
+    second: {fileID: 2100000, guid: f63a1c2f653b3f74fab24deff32c40a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sitting_StumpWood
+    second: {fileID: 2100000, guid: 08ec9f5c055fe9e48949364878c1e75e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sitting_StumpWood_Interior
+    second: {fileID: 2100000, guid: 3a1dfa062d2a03b4682c672d896c843d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spoonblinn1
+    second: {fileID: 2100000, guid: 33264d89cbc448d4f86531d78fc05730, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TableMetal
+    second: {fileID: 2100000, guid: fbb56d77ac8847849b9a6808412e407f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TablePlastic
+    second: {fileID: 2100000, guid: ac372a0a0d0ed1d44a025949f7ae1d65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TablePlastic_2
+    second: {fileID: 2100000, guid: b2c1377d5d243cd48941e440e02a79c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tent1Nylon
+    second: {fileID: 2100000, guid: 6cc5bb5a03c68e7428fa7b432e3cb817, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tin_CanCan_Metal
+    second: {fileID: 2100000, guid: 68760b3411a49144c966f971489306ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_BottleBottle
+    second: {fileID: 2100000, guid: f2eab41531f824d4e8993072c848a7e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_BottleBottle_Cap
+    second: {fileID: 2100000, guid: fa6e7c9085596d34b99967e41beee3fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_tree.001
+    second: {fileID: 2100000, guid: b8c9263ae8bb3994e8b3e17504e2f5f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_tree.002
+    second: {fileID: 2100000, guid: 56d97b1afd1352d4d86cd19e72025d5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rocky_terrain_02
+    second: {fileID: 2100000, guid: f4033a781f086724f83c8c7b57eb8ed7, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
