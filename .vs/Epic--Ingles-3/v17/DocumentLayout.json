@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\happymemories\\zona 5\\placepalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 5\\placepalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\happymemories\\zona 5\\typepalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 5\\typepalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|c:\\users\\salas\\documents\\repositorios\\epic--ingles-3\\assets\\scripts\\happymemories\\zona 5\\finalplaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 5\\finalplaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|c:\\users\\salas\\documents\\repositorios\\epic--ingles-3\\assets\\scripts\\happymemories\\zona 5\\placepalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 5\\placepalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\happymemories\\zona 5\\pickplaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 5\\pickplaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\happymemories\\zona 4\\pickfogata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +31,12 @@
       "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\maze of language\\managernpcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|c:\\users\\salas\\documents\\repositorios\\epic--ingles-3\\assets\\scripts\\happymemories\\zona 1\\burbujas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\happymemories\\zona 1\\burbujas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 1\\burbujas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\happymemories\\zona 1\\soundambient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 1\\soundambient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|c:\\users\\salas\\documents\\repositorios\\epic--ingles-3\\assets\\scripts\\happymemories\\zona 5\\pickplaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 5\\pickplaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\happymemories\\zona 5\\typepalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 5\\typepalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\maze of language\\npcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,21 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 150,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Burbujas.cs",
-              "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 1\\Burbujas.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HappyMemories\\Zona 1\\Burbujas.cs",
-              "ToolTip": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 1\\Burbujas.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HappyMemories\\Zona 1\\Burbujas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T18:26:52.579Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -77,14 +64,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\HappyMemories\\Zona 5\\FinalPlaya.cs",
               "ToolTip": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 5\\FinalPlaya.cs",
               "RelativeToolTip": "Assets\\Scripts\\HappyMemories\\Zona 5\\FinalPlaya.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T17:29:54.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ManagerNpcRiddles.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\Maze of Language\\ManagerNpcRiddles.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Maze of Language\\ManagerNpcRiddles.cs",
@@ -92,12 +79,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Maze of Language\\ManagerNpcRiddles.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAwwDUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T16:41:36.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T16:41:36.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "SoundAmbient.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 1\\SoundAmbient.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HappyMemories\\Zona 1\\SoundAmbient.cs",
@@ -105,21 +91,32 @@
               "RelativeToolTip": "Assets\\Scripts\\HappyMemories\\Zona 1\\SoundAmbient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T16:31:02.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T16:31:02.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "TypePalabra.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 5\\TypePalabra.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HappyMemories\\Zona 5\\TypePalabra.cs",
               "ToolTip": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 5\\TypePalabra.cs",
               "RelativeToolTip": "Assets\\Scripts\\HappyMemories\\Zona 5\\TypePalabra.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T15:18:49.393Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Burbujas.cs",
+              "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 1\\Burbujas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HappyMemories\\Zona 1\\Burbujas.cs",
+              "ToolTip": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 1\\Burbujas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HappyMemories\\Zona 1\\Burbujas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:26:52.579Z"
             },
             {
               "$type": "Document",
@@ -141,29 +138,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PlacePalabra.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 5\\PlacePalabra.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HappyMemories\\Zona 5\\PlacePalabra.cs",
               "ToolTip": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 5\\PlacePalabra.cs",
               "RelativeToolTip": "Assets\\Scripts\\HappyMemories\\Zona 5\\PlacePalabra.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB0AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T15:23:22.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "PickPlaya.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 5\\PickPlaya.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HappyMemories\\Zona 5\\PickPlaya.cs",
               "ToolTip": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 5\\PickPlaya.cs",
               "RelativeToolTip": "Assets\\Scripts\\HappyMemories\\Zona 5\\PickPlaya.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAjwDIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAArwEsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T15:14:48.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T15:14:48.724Z"
             },
             {
               "$type": "Document",
@@ -179,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PickFogata.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 4\\PickFogata.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HappyMemories\\Zona 4\\PickFogata.cs",
@@ -187,12 +183,11 @@
               "RelativeToolTip": "Assets\\Scripts\\HappyMemories\\Zona 4\\PickFogata.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T04:24:03.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T04:24:03.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PlaceFogata.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 4\\PlaceFogata.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HappyMemories\\Zona 4\\PlaceFogata.cs",
@@ -200,8 +195,7 @@
               "RelativeToolTip": "Assets\\Scripts\\HappyMemories\\Zona 4\\PlaceFogata.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T04:30:50.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T04:30:50.957Z"
             }
           ]
         }
