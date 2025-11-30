@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pencil
+* source:	https://sketchfab.com/3d-models/pencil-8b0f41f8b2dc475ca0083f381abc54bd
+* author:	jablazinb (https://sketchfab.com/jablazinb)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pencil" (https://sketchfab.com/3d-models/pencil-8b0f41f8b2dc475ca0083f381abc54bd) by jablazinb (https://sketchfab.com/jablazinb) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	90's NHL -Pencil case
+* source:	https://sketchfab.com/3d-models/90s-nhl-pencil-case-07e5a1bc68f2433eb8fb3db3582ec3d9
+* author:	Ville Mäkilä (https://sketchfab.com/villemakila)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "90's NHL -Pencil case" (https://sketchfab.com/3d-models/90s-nhl-pencil-case-07e5a1bc68f2433eb8fb3db3582ec3d9) by Ville Mäkilä (https://sketchfab.com/villemakila) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

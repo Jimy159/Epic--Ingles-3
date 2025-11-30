@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sheet Of Paper
+* source:	https://sketchfab.com/3d-models/sheet-of-paper-d931ff5bb5fb44a8a57cd29aba8d8267
+* author:	freemodels (https://sketchfab.com/uploadingfreemodelseveryday)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sheet Of Paper" (https://sketchfab.com/3d-models/sheet-of-paper-d931ff5bb5fb44a8a57cd29aba8d8267) by freemodels (https://sketchfab.com/uploadingfreemodelseveryday) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

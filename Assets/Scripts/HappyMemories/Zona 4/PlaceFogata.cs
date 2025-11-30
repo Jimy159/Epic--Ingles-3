@@ -20,6 +20,8 @@ public class PlaceFogata : MonoBehaviour
     {
         if (pick == null)
             return;
+        if(pick.currentObject == null)
+            return ;
 
         if (pick.currentObject != null && pick.currentType == objectType)
         {

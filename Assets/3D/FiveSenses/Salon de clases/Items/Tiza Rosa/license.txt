@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chalk
+* source:	https://sketchfab.com/3d-models/chalk-69d8ae1b8bea4f56a0654f5dedf0b7e8
+* author:	Kroko.blend (https://sketchfab.com/jaromir.ternavskiy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chalk" (https://sketchfab.com/3d-models/chalk-69d8ae1b8bea4f56a0654f5dedf0b7e8) by Kroko.blend (https://sketchfab.com/jaromir.ternavskiy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
