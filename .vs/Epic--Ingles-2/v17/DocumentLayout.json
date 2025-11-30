@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\Proyectos\\Epic--Ingles-2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|e:\\proyectos\\epic--ingles-2\\assets\\scripts\\maze of language\\managernpcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\maze of language\\managernpcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\maze of language\\npcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\maze of language\\npcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\ManagerTaskFragments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\restouring the voice\\zona 3\\placebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\maze of language\\npcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\maze of language\\npcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\restouring the voice\\zona 1\\choosefragment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\restouring the voice\\zona 1\\choosefragment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\restouring the voice\\zona 1\\pickfragment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,17 +126,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 242,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ManagerNpcRiddles.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Maze of Language\\ManagerNpcRiddles.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Maze of Language\\ManagerNpcRiddles.cs",
               "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Maze of Language\\ManagerNpcRiddles.cs",
               "RelativeToolTip": "Assets\\Scripts\\Maze of Language\\ManagerNpcRiddles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T06:19:55.86Z",
               "EditorCaption": ""
@@ -166,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PlaceBook.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\Zona 3\\PlaceBook.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Restouring the voice\\Zona 3\\PlaceBook.cs",
@@ -178,19 +178,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Score.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Score.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Score.cs",
               "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Score.cs",
               "RelativeToolTip": "Assets\\Scripts\\Score.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T03:09:54.509Z"
+              "WhenOpened": "2025-11-25T03:09:54.509Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ChooseFragment.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\Zona 1\\ChooseFragment.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Restouring the voice\\Zona 1\\ChooseFragment.cs",
@@ -202,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ActivateFinalPrefix.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Maze of Language\\ActivateFinalPrefix.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Maze of Language\\ActivateFinalPrefix.cs",
@@ -396,7 +397,7 @@
         },
         {
           "DockedWidth": 158,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -424,19 +425,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "NpcRiddles.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Maze of Language\\NpcRiddles.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Maze of Language\\NpcRiddles.cs",
               "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Maze of Language\\NpcRiddles.cs",
               "RelativeToolTip": "Assets\\Scripts\\Maze of Language\\NpcRiddles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T06:19:39.733Z"
+              "WhenOpened": "2025-11-18T06:19:39.733Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ManagerTaskFragments.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\ManagerTaskFragments.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Restouring the voice\\ManagerTaskFragments.cs",
