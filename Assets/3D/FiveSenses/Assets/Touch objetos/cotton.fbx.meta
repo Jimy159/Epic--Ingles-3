@@ -3,7 +3,12 @@ guid: 9447831443c0f0147b372e09204e49de
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tallBush
+    second: {fileID: 2100000, guid: 1b571212438a78040b785fa1740675db, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

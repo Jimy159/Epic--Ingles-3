@@ -10,15 +10,18 @@ public class PlaceFive : MonoBehaviour
     public TypeFive.Type objectType;
     public PickFive pick;
     public float moveSpeed = 3f;
-    public Transform pos;
     [HideInInspector] public bool completed;
-    public FinalPlaya FinalPlaya;
     public List<TransformList> positions = new List<TransformList>();
     public SpatialInteractable interactable;
+    public GameObject bien;
+    public GameObject mal;
+    public GameObject word;
+    public List<GameObject> finish = new List<GameObject>();
     public void TryPlaceObject()
     {
         if (pick == null)
             return;
+        if(pick.currentObject == null) return;
 
         if (pick.currentObject != null && pick.currentType == objectType)
         {
@@ -27,13 +30,18 @@ public class PlaceFive : MonoBehaviour
         }
         else if (pick.currentObject != null)
         {
-            pick.currentObject.GetComponent<TypeFive>().Back();
-            pick.interactable.enabled = true;
+            bien.SetActive(false);
+            mal.SetActive(false);
+            mal.SetActive(true);
+            pick.typeFive.Back();
             pick.Release();
         }
     }
     public void TransformOccuped()
     {
+        bien.SetActive(false);
+        mal.SetActive(false);
+        bien.SetActive(true);
         bool todosOcupados = true;
         for (int i = 0; i < positions.Count; i++)
         {
@@ -47,7 +55,18 @@ public class PlaceFive : MonoBehaviour
         if (todosOcupados)
         {
             completed = true;
-            gameObject.SetActive(false);
+            gameObject.SetActive(false); word.SetActive(false);
+            FinalSenses.instance.AreAllComplete();
+            for (int i = 0; i < finish.Count; i++)
+            {
+                finish[i].gameObject.SetActive(true);
+            }
+            for (int i = 0; i < positions.Count; i++)
+            {
+                positions[i].transform.gameObject.SetActive(false);
+            }
+            bien.SetActive(false);
+            mal.SetActive(false);
         }
     }
     private IEnumerator MoveToPosition(GameObject obj)

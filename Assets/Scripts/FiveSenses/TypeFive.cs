@@ -15,17 +15,18 @@ public class TypeFive : MonoBehaviour
     }
 
     public Type type;
-    public SpatialInteractable interactable;
+    [HideInInspector]public SpatialInteractable interactable;
 
     private Vector3 initialPosition;
 
     private void Start()
     {
+        interactable = GetComponent<SpatialInteractable>();
         initialPosition = transform.localPosition;
     }
-
     public void Back()
     {
+        interactable.enabled = true;
         transform.localPosition = initialPosition;
     }
 }

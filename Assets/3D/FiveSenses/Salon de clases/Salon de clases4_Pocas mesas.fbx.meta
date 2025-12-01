@@ -3,7 +3,177 @@ guid: ba2e717dfead02445ad69418862577a8
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtain
+    second: {fileID: 2100000, guid: d49bf19a39db53249ac601c852715a02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Beams
+    second: {fileID: 2100000, guid: 98dd0767eb43ce842a0f5ecf1c0ccd74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_BookBlue
+    second: {fileID: 2100000, guid: c494ab4c82b09de4eb696ef04b199ed6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_BookGrey
+    second: {fileID: 2100000, guid: e01db86f26813cf46a8185983b566a02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_BookLightBlue
+    second: {fileID: 2100000, guid: 31e3843d6bc59c242a1d904066fa1c6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_BookRed
+    second: {fileID: 2100000, guid: 8405534b652d4ac4cb47d9d1674ef6a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Box
+    second: {fileID: 2100000, guid: 5b940e6c90a72f94b80709ef71c46e15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Box.001
+    second: {fileID: 2100000, guid: f901a3e56e06ceb44bcd9345bc27a335, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Box2
+    second: {fileID: 2100000, guid: 805cd1edc6f2ba14190c802c553c27dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Chalkboard
+    second: {fileID: 2100000, guid: 3d96ca0ac2c41bd438b493447de194a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_ColumnAndDoorFrame
+    second: {fileID: 2100000, guid: 3b4a242a62441ad4aa413c0fe1848b7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Cup
+    second: {fileID: 2100000, guid: 074fe0d78079bc5458e3c539bdd41ddf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_DeskAndChair
+    second: {fileID: 2100000, guid: daa24ab6ffcf8354cb02f77fe2227915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Doors
+    second: {fileID: 2100000, guid: 9a066ed2a68b7d24eb3cec480c5d3337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_HangingLamp
+    second: {fileID: 2100000, guid: 86c144e24174bd143aa90292a7392094, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Lectern
+    second: {fileID: 2100000, guid: a6139cb7b9f65a841b4c99ca0a83a078, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_OpenBook
+    second: {fileID: 2100000, guid: 87edd91abf57e584c961fd530eb05852, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Overlay
+    second: {fileID: 2100000, guid: e9dd5545bcca01d4a864e4ccc098feb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Parquet
+    second: {fileID: 2100000, guid: 5dc3a59c8158de84b81001f3d99fb6e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_PinBoard
+    second: {fileID: 2100000, guid: 0cb9547132e419f488abe7656966291b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_PlasterWall
+    second: {fileID: 2100000, guid: 9bbad962e5fdd6645b12995a4fdf2795, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_PlasterWallClean
+    second: {fileID: 2100000, guid: 4d00e55c224e2334f9c87ddc5c3776cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_PlasterWorldAlign
+    second: {fileID: 2100000, guid: dd3c5d29e086ca240a6fa039a4acdce7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Plastic
+    second: {fileID: 2100000, guid: eef1db63d4043634c8de3ff92dc50545, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_PosterWorldMap
+    second: {fileID: 2100000, guid: c4d09cd58bf493c4aa893ee2f3be57e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Radiator
+    second: {fileID: 2100000, guid: 51497ad6886ff384c995ad9f8df17c8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Shelf
+    second: {fileID: 2100000, guid: 8d6dd1790041ee344bacf28cd81f1235, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Shelf2
+    second: {fileID: 2100000, guid: c7a2bfdb60c2d0d4bbaa8725847df472, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_TeachersTable
+    second: {fileID: 2100000, guid: aee0c579a67711746adf3edd579fd3b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_VarnishedWood
+    second: {fileID: 2100000, guid: 79ed035ec2c4a5c47b03516bdda2845f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Window2
+    second: {fileID: 2100000, guid: 12b7748d4fa79d043be63ac6f5244073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_SimpleColor
+    second: {fileID: 2100000, guid: fe803cebe2f9b8c47a75564ad5f6065c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0116.rip.003__0
+    second: {fileID: 2100000, guid: 1d2f7ff9e87ddea4ab2d69da2c38f40f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 53921fbc524c1dd4e821f3a7abf814ca, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -47,7 +217,7 @@ ModelImporter:
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1

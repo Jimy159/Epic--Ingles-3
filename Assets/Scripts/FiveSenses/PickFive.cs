@@ -10,6 +10,7 @@ public class PickFive : MonoBehaviour
     public SpatialInteractable interactable;
     private bool isMoving = false;
     public float moveSpeed = 5f;
+    [HideInInspector] public TypeFive typeFive;
 
     [Header("Offset")]
     public Vector3 offset = new Vector3(0, 0.5f, 0);
@@ -48,7 +49,6 @@ public class PickFive : MonoBehaviour
         {
             return obj.GetComponentInChildren<TypeFive>();
         }
-        else
             return obj.GetComponent<TypeFive>();
     }
     public void PickUp(GameObject obj)
@@ -58,13 +58,13 @@ public class PickFive : MonoBehaviour
         currentObject = obj;
         isMoving = true;
 
-        TypeFive typeObj = FindType(obj);
-        interactable = typeObj.interactable;
+        typeFive = FindType(obj);
+        interactable = typeFive.interactable;
         interactable.enabled = false;
 
-        if (typeObj != null)
+        if (typeFive != null)
         {
-            currentType = typeObj.type;
+            currentType = typeFive.type;
             Debug.Log($"Agarraste un {currentType}: {obj.name}");
         }
         else
