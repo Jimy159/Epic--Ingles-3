@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\fivesenses\\finalsenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\fivesenses\\finalsenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|c:\\users\\salas\\documents\\repositorios\\epic--ingles-3\\assets\\scripts\\fivesenses\\typefive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\fivesenses\\typefive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|c:\\users\\salas\\documents\\repositorios\\epic--ingles-3\\assets\\scripts\\fivesenses\\placefive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\fivesenses\\placefive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\fivesenses\\typefive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\fivesenses\\typefive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\fivesenses\\pickfive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\fivesenses\\pickfive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|c:\\users\\salas\\documents\\repositorios\\epic--ingles-3\\assets\\scripts\\fivesenses\\finalsenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\fivesenses\\finalsenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\happymemories\\zona 5\\finalplaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,17 +50,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 187,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "FinalSenses.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\FiveSenses\\FinalSenses.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FiveSenses\\FinalSenses.cs",
               "ToolTip": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\FiveSenses\\FinalSenses.cs",
               "RelativeToolTip": "Assets\\Scripts\\FiveSenses\\FinalSenses.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T22:23:26.625Z",
               "EditorCaption": ""
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PickFive.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\FiveSenses\\PickFive.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FiveSenses\\PickFive.cs",
@@ -88,8 +88,7 @@
               "RelativeToolTip": "Assets\\Scripts\\FiveSenses\\PickFive.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAowFEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T23:28:43.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T23:28:43.075Z"
             },
             {
               "$type": "Document",
@@ -123,7 +122,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PlaceFive.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\FiveSenses\\PlaceFive.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FiveSenses\\PlaceFive.cs",
