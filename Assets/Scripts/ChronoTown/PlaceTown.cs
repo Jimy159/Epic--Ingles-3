@@ -1,7 +1,9 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using SpatialSys.UnitySDK;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class PlaceTown : MonoBehaviour
 {
@@ -21,9 +23,12 @@ public class PlaceTown : MonoBehaviour
     {
         if (pick == null)
             return;
+        if(pick.currentObject == null) return;
 
         if (pick.currentObject != null && pick.currentType == objectType)
         {
+            pick.currentObject.GetComponent<TypeTown>().correct.SetActive(true);
+            pick.currentObject.SetActive(false);
             pick.Release();
             completed = true;
             FinalParte.AreAllComplete();

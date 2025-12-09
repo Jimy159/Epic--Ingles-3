@@ -16,6 +16,7 @@ public class TypeTown : MonoBehaviour
 
     public Type type;
     [HideInInspector] public SpatialInteractable interactable;
+    public GameObject correct;
 
     private Vector3 initialPosition;
 

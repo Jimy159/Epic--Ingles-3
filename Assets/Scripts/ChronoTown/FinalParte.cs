@@ -10,6 +10,7 @@ public class FinalParte : MonoBehaviour
     public SpatialQuest quest;
     public int index;
     public UnityEvent Unitevent;
+    public List<GameObject> town = new List<GameObject>();
     public void AreAllComplete()
     {
         foreach (PlaceTown obj in objects)
@@ -21,5 +22,9 @@ public class FinalParte : MonoBehaviour
         }
         Unitevent.Invoke();
         quest.tasks[index].CompleteTask();
+        for(int i = 0; i < town.Count;i++)
+        {
+            town[i].SetActive(false);
+        }
     }
 }
