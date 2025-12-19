@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\Proyectos\\Epic--Ingles-2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|e:\\proyectos\\epic--ingles-2\\assets\\scripts\\happymemories\\zona 4\\typefogata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 4\\typefogata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|e:\\proyectos\\epic--ingles-2\\assets\\scripts\\happymemories\\zona 4\\placefogata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 4\\placefogata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|e:\\proyectos\\epic--ingles-2\\assets\\scripts\\happymemories\\zona 4\\pickfogata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 4\\pickfogata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|e:\\proyectos\\epic--ingles-2\\assets\\scripts\\starcode\\modulemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\starcode\\modulemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,6 +63,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TypeFogata.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HappyMemories\\Zona 4\\TypeFogata.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HappyMemories\\Zona 4\\TypeFogata.cs",
+              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HappyMemories\\Zona 4\\TypeFogata.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HappyMemories\\Zona 4\\TypeFogata.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:05:09.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaceFogata.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HappyMemories\\Zona 4\\PlaceFogata.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HappyMemories\\Zona 4\\PlaceFogata.cs",
+              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HappyMemories\\Zona 4\\PlaceFogata.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HappyMemories\\Zona 4\\PlaceFogata.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:04:53.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PickFogata.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HappyMemories\\Zona 4\\PickFogata.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HappyMemories\\Zona 4\\PickFogata.cs",
+              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HappyMemories\\Zona 4\\PickFogata.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HappyMemories\\Zona 4\\PickFogata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:04:27.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ModuleManager.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\StarCode\\ModuleManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StarCode\\ModuleManager.cs",
@@ -63,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ItemType.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\StarCode\\ItemType.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StarCode\\ItemType.cs",
@@ -75,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PickModule.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\StarCode\\PickModule.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StarCode\\PickModule.cs",
@@ -87,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ManageRope.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\StarCode\\ManageRope.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StarCode\\ManageRope.cs",
@@ -99,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "CheckCorrectText.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\StarCode\\CheckCorrectText.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StarCode\\CheckCorrectText.cs",
@@ -117,7 +168,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "RopeVerlet.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\RopeVerlet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RopeVerlet.cs",
@@ -129,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "CompleteTask.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\CompleteTask.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CompleteTask.cs",
@@ -141,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "PickFragment.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\Zona 1\\PickFragment.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Restouring the voice\\Zona 1\\PickFragment.cs",
@@ -154,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "CorrectText.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\StarCode\\CorrectText.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StarCode\\CorrectText.cs",
